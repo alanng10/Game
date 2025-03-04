@@ -47,3 +47,7 @@ Game has park kind arch benefit.
 Game has park kind arch marry.
 
 Game has park kind arch land.
+
+Game has park theme.
+
+Game has park style.
