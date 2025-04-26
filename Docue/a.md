@@ -51,3 +51,5 @@ Game has park kind arch land.
 Game has park theme.
 
 Game has park style.
+
+Game has major.
