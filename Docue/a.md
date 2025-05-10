@@ -48,6 +48,10 @@ Game has park kind arch marry.
 
 Game has park kind arch land.
 
+Game has park mark.
+
+Game has park cross.
+
 Game has park theme.
 
 Game has park style.
